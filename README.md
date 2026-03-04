@@ -19,6 +19,6 @@ For a quick look at my work, you can click directly on any of the screenshot ima
 
 To read HTML samples exactly as they appear on a live webpage, please download them to your computer:
 
-1. Click on the file name you want to read.
+1. Click the file name you want to read.
 2. Near the top right of the code view, click the **Download raw file** button.
 3. Once downloaded, double-click the file on your computer. It will open in your web browser so you can read the file content comfortably.
