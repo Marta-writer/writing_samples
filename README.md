@@ -8,12 +8,13 @@ Welcome to my public repository of technical writing samples. This collection in
 * **`release_notes.html`**: Sample release notes detailing system updates and new features.
 * **`supplier_conversations.html`**: A user guide section that walks users through the "Supplier Conversations" tool.
 * **Screenshot files**: Image files that provide quick visual previews of the documentation.
+* **PDF files**: Short articles that you can read directly in your web browser.
 
 ### How to view these samples
 
-**Viewing the screenshots** 
+**Viewing the PDF and image files** 
 
-For a quick look at my work, you can click directly on any of the screenshot image files in this repository. GitHub will display these right in your web browser, so you don't need to download anything.
+For a quick look at my work, you can click any of the PDF or image files directly in this repository. GitHub will display these right in your web browser, so you don't need to download anything.
 
 **Viewing the HTML files** 
 
